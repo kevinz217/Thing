@@ -1,0 +1,4 @@
+apple,999.0
+bananas,12.0
+Veggies,399319.0
+Corn,3123.3333

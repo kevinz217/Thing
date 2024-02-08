@@ -1,0 +1,6 @@
+hello
+GOODBYE
+is
+some
+sample
+data
